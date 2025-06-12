@@ -1,5 +1,6 @@
 {
   "expo": {
+    "platforms": ["ios", "android", "web"],
     "name": "tic-tac-toe",
     "slug": "tic-tac-toe",
     "version": "1.0.0",
